@@ -7,7 +7,8 @@ A small Python-based project analyzing customer churn data to understand pattern
 ## What’s Inside
 
 - **Notebook (`.ipynb`)** — contains the complete analysis, including data cleaning, EDA, visualizations, and observations  
-- **Dataset (`.csv`)** — customer churn data used for the analysis  
+- **Dataset (`.csv`)** — customer churn data used for the analysis
+- **`requirements.txt`** — list of Python dependencies to run the notebook 
 
 ---
 
